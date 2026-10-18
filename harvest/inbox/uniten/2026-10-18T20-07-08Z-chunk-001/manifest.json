@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "uniten",
+  "source_name": "Perpustakaan Universiti Tenaga Nasional",
+  "source_base_url": "https://library.uniten.edu.my/",
+  "terms_url": "https://library.uniten.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "uniten-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T20-07-08Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T20:37:49.682Z",
+  "finished_at": "2026-10-18T20:37:49.682Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/uniten; contact@pustakaterbuka.org)",
+  "notes": "UNITEN harvest completed. Total: 0 records."
+}
